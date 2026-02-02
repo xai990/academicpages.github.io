@@ -11,4 +11,4 @@ I am a **Ph.D. Candidate in Computer Engineering** at Clemson University, advise
 
 I have experience developing modular reasoning workflows for single-cell epigenomics at **MD Anderson Cancer Center** (Applied Research Intern, May–Nov 2025) and at Clemson as a **Graduate Research Assistant** (Jan 2022–Present), with an focus on genomic language modeling and biomark finding.
 
-**Research interests:** Diffusion models, Transformers, VAEs, single-cell multi-omics (scRNA-seq, scATAC-seq), trajectory inference, latent representation learning, and high-dimensional data integration.
+**Research interests:** Diffusion models, Transformers, VAEs, virtual cell, single-cell multi-omics (scRNA-seq, scATAC-seq), trajectory inference, latent representation learning, and high-dimensional data integration.
