@@ -13,4 +13,4 @@ I have experience developing modular reasoning workflows for single-cell epigeno
 
 **Research interests:** Diffusion models, Transformers, VAEs, single-cell multi-omics (scRNA-seq, scATAC-seq), trajectory inference, latent representation learning, and high-dimensional data integration.
 
-You can download my full CV [here](/files/XushengAi2026.pdf).
+You can download my full CV [here]({{ site.baseurl }}/files/XushengAi2026.pdf).

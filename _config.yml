@@ -13,9 +13,9 @@ title                    : "Xusheng Ai"
 title_separator          : "-"
 name                     : &name "Xusheng Ai"
 description              : &description "Machine Learning Research Scientist · Ph.D. Candidate · Generative AI & Genomics"
-url                      : https://xai990.github.io # The base hostname & protocol for your site
-baseurl                  : "" # Use "" for username.github.io; use "/repo-name" for project site
-repository               : "xai990/academicpages.github.io" # Your repo
+url                      : https://xai990.github.io
+baseurl                  : "/academicpages.github.io" # Required for project site; use "" if repo is xai990.github.io
+repository               : "xai990/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
