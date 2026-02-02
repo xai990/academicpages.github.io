@@ -26,7 +26,7 @@ author:
   name             : "Xusheng Ai"
   pronouns         : # example: "she/her"
   bio              : "Ph.D. Candidate in Computer Engineering at Clemson University. Research focus: Generative AI, diffusion models, and foundation models for genomics."
-  location         : "Central, SC"
+  location         : "Clemson, SC"
   employer         : "Clemson University"
   uri              : # URL
   email            : "xusheng.ai369@gmail.com"
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : # Add your Google Scholar URL
+  googlescholar    : "https://scholar.google.com/citations?user=6g73z0EAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
