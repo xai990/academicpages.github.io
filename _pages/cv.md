@@ -11,54 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D.** in Computer Engineering, Clemson University, Clemson, SC — *Expected May 2026*  
+  Advisor: Prof. Melissa C. Smith · GPA: 3.81/4.0
+* **M.S.** in Engineering Science, University of the Pacific, Stockton, CA — July 2021  
+  GPA: 3.94/4.0
+* **B.E.** in Automation Engineering, Changsha University of Science and Technology, Changsha, China — June 2018
 
-Work experience
+Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Applied Research Intern**, MD Anderson Cancer Center, Houston, TX — May 2025 – Nov 2025  
+  * Biological reasoning workflows for single-cell epigenomics (H3K4me3, RNAPII); metacell aggregation; validation with biologists (5,065 significant target genes, 96% cross-validation accuracy).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Graduate Research Assistant**, Clemson University, Clemson, SC — Jan 2022 – Present  
+  * **Latent representation learning & trajectory inference** (Aug 2023 – Present): Hierarchical VAE for biological time-series; latent-space dynamics and pseudotime inference.  
+  * **GemDiff** (Jan 2022 – Aug 2023): Transformer-based diffusion model for tumor gene expression; PyTorch DDP/Slurm pipelines; benchmarking (UMAP, distribution matching, functional enrichment).
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Backend Systems Researcher**, University of the Pacific, Stockton, CA — Aug 2019 – July 2021  
+  * A2Cloud-H: hybrid resource recommendation system for scientific workflows on AWS.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Machine Learning:** Diffusion models, Transformers, VAEs, GANs; PyTorch (DDP), multi-GPU training, HPC/Slurm, Docker.
+* **Computational Biology:** Single-cell multi-omics (scRNA-seq, scATAC-seq), high-dimensional integration, trajectory inference, differential expression, pathway enrichment.
+* **Languages & Tools:** Python (Pandas, Scikit-Learn), PyTorch, R; Kubernetes, Linux, AWS/Azure.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
